@@ -1,0 +1,27 @@
+//Support
+@import "modules/global";
+
+@import "modules/visually-hidden";
+
+@import "modules/library";
+
+@import "fonts/fonts";
+
+
+//blocks
+@import "blocks/button";
+@import "blocks/container.scss";
+@import "blocks/page";
+@import "blocks/page-header";
+@import "blocks/site-menu";
+@import "blocks/logo";
+
+@import "blocks/page-main";
+@import "blocks/promo";
+
+@import "blocks/catalog-sections";
+@import "blocks/process";
+@import "blocks/example";
+@import "blocks/contacts";
+
+@import "blocks/page-footer";
